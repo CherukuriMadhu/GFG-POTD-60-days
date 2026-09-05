@@ -1,4 +1,4 @@
-# #GeekStreak60 – 60 Days POTD Challenge
+# #GeekStreak60 and NPCI – 60 Days POTD Challenge
 
 This repository contains my solutions for the **60 Days Problem of the Day (POTD) Challenge** conducted by NPCI in collaboration with GeeksforGeeks.
 
