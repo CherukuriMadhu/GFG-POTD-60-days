@@ -12,7 +12,6 @@ The #geekstreak60 challenge focused on solving one coding problem daily for 60 c
 - Practiced optimizing solutions where possible
 - Maintained daily consistency and tracked progress
 - Learned multiple approaches for better problem-solving
-
 ## 🎯 What I Gained
 - Improved problem-solving skills
 - Better understanding of DSA concepts
@@ -23,7 +22,7 @@ The #geekstreak60 challenge focused on solving one coding problem daily for 60 c
 ## 📂 Repository Structure
 Each file in this repository corresponds to the solution of the daily POTD.
 
-## 🙏 Acknowledgement
+## Acknowledgement
 Thanks to **GeeksforGeeks** for providing free learning resources and coding challenges, and **NPCI** for powering this initiative and encouraging consistent practice.
 
 ## 🔥 Challenge Hashtags
