@@ -5,7 +5,7 @@ This repository contains my solutions for the **60 Days Problem of the Day (POTD
 ## 📌 About the Challenge
 The #geekstreak60 challenge focused on solving one coding problem daily for 60 consecutive days. The goal was to build consistency, improve problem-solving skills, and strengthen understanding of Data Structures and Algorithms.
 
-## 🚀 My Approach
+## 🚀 My Approach and Consistent
 - Solved one POTD every day without breaking the streak
 - Focused on understanding concepts and logic behind each problem
 - Analyzed constraints before coding
